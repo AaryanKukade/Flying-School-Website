@@ -1,0 +1,41 @@
+body{
+	background-image: url(eli.jpg);
+	
+}
+h4{
+	font-family: "century gothic";
+	color: white;
+
+}
+h2{
+	font-family: century gothic;
+	color: white;
+	background-color: chocolate;
+}
+ul{
+	font-family: century gothic;
+	float:right;
+	list-style-type: none;
+	margin-top: 25px;
+}
+ul li{
+	display: inline-block;
+}
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+ul li a:hover{
+	background-color: white;
+	color: black;
+}
+	ul li.active a{
+		background-color: #fff;
+	color: #000;
+}
+h3{
+	font-family: century gothic;
+}

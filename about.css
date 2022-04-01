@@ -1,0 +1,49 @@
+body{
+	background-image: url(index2.jpg);
+	height: 100%;
+	  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h3{
+	font-family: century gothic;
+	color: white;
+	background-color: #008B8B;
+	background: rgba(0, 139, 139, 0.6);
+}
+h2{
+	font-family: century gothic;
+	color:black;
+	background-color:#FFB6C1;
+	background: rgba(255, 192, 183, 0.6);
+
+}
+
+ul{
+	font-family: century gothic;
+	background-color: darkorange;
+	float:right;
+	list-style-type: none;
+	margin-top: 25px;
+}
+ul li{
+	display: inline-block;
+}
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+ul li a:hover{
+	background-color: white;
+	color: black;
+}
+	ul li.active a{
+		background-color: #fff;
+	color: #000;
+}
+H1{
+	font-family: century gothic;
+}

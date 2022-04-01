@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CONTACT US</title>
+
+<link rel="stylesheet" type="text/css" href="form.css">
+</head>
+<body>
+	<marquee bgcolor="babypink"><h3>PLEASE FILL THE FOLLOWING FORM OR CALL US ON +919574936584/8793654782</h3></marquee> 
+	<header>
+		
+		</div>
+			<ul>
+				
+				<li><a href="index.html">Home</a></li>
+				<li><a href="eligibility.html">Courses & Eligibility</a></li>
+				<li><a href="gallery.html">Gallery</a></li>
+			
+				<li><a href="form.html">Contact Us</a></li>
+				</ul>
+			</div>
+	<h2>ANY QUERIES? CONTACT US</h2>
+
+	<div class="main">
+		<div class="register">
+			<h6>Bling Aviation Club, Pune, India</h6>
+			<h2>CONTACT US</h2>
+			<form id="register" method="post">
+				<label>Name:</label>
+			<input type="text"placeholder="enter your name" name="">
+				<br><br><br>
+				<label>Phone no:</label>
+				<input type="text" placeholder="enter your phone no." name=phone"">
+				<br><br><br>
+				<label>Email:</label>
+				<input type="text" placeholder="email" name="email">
+				<br><br><br>
+				<label>Gender:</label>
+				<br>
+				
+				<input type="radio" name="gender"
+				id="male"
+				
+				<span id="male">Male</span>
+				
+					<input type="radio" name="gender"
+					id="female">
+
+				<span id="female"female>Female</span>
+				<br><br><br>
+				<input type="text"placeholder="Your query" name="query">
+				<br><br>
+				<input type="submit" name="submit" name="submit" id="submit">
+				<br><br>
+				<h5>BAC aviation, Viman Nagar, Near Airport Road, Pune, Maharashtra, India - 411001</h5>
+
+
+	</div>
+
+</body>
+</html>
